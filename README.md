@@ -12,3 +12,9 @@ Furthermore, we gained an understanding of the widget hierarchy in Flutter, a tr
 Throughout the experiment, we explored a diverse range of widgets, including Text, TextStyle, Font, Image, Assets, Icons, Padding, and Center. These widgets enabled us to incorporate text, images, and icons into our user interface while controlling their positioning, size, and styling.
 
 Overall, this experiment provided us with a solid foundation for creating more intricate Flutter applications in the future. With the knowledge gained from this experiment, we can construct captivating and visually appealing user interfaces for our applications.
+
+# Resources 
+A few resources to get you started if this is your first Flutter project:
+ - Lab: Write your first Flutter app
+ - Cookbook: Useful Flutter samples
+For help getting started with Flutter development, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
